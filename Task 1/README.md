@@ -10,5 +10,4 @@ To visit or download the dataset used in project, click [here](http://bit.ly/w-d
 
 ---
 ## Other Resources
-- Linkedin: 
-- YouTube: 
+- Dataset: [data.csv](http://bit.ly/w-data)
